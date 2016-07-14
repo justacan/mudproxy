@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/react": "@dev"
+    },
+    "autoload": {
+        "psr-4": {"Mudproxy\\": "src/Mudproxy"}
+    }
+}
